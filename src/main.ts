@@ -31,7 +31,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           <div class="Middle-text">
             <ul>
               <li><img src="assets/dog-image-1.jpg" /></li>
-              <li><img src="/assets/dog-image-2.jpg"/></li>
+              <li><img src="assets/dog-image-2.jpg"/></li>
               <li><img src="assets/dog-image-3.jpg" /></li>
             </ul>
             <p>Here are a few pictures. She's a happy girl!</p>
