@@ -22,6 +22,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           <div class="more"></div>
           </div>
         </header>
+
         <div class="phone-body">
           <div class="Top-text">
             <p>That sounds great. I'd be happy with that.</p>
@@ -70,17 +71,3 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
     </div>
   </div>
 `;
-
-/*
-
- <div class="btn">
-              <div class="btn-left">
-                <input type="radio" value="1 hour"/> <span class="checkmark"></span>
-                <span>1 hour walk</span>
-              </div>
-              <h3>$49</h3>
-            </div>
-
-<div class="upper-space"></div>
-*/
-
